@@ -15,7 +15,10 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Undergraduate Thesis
-### Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum
+**Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum
+- Uncovered novel deep learning-based solution for the Traveling Salesman Problem (TSP), improving solution efficiency.
+- Integrated TSP 1.5-approximation algorithm into the complexity function, enhancing model accuracy.
+- Developed an enhanced benchmark model using the REINFORCE algorithm, outperforming the greedy roll-out method.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
