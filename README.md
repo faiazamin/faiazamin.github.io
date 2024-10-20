@@ -1,20 +1,21 @@
-# Data Scientist (Fake)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Java, Kotlin, Pytorch, tensorflow
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education	 			        		
+- B.Sc in Computer Science & Engineering | CGPA: 3.5/4 | The University of Dhaka, Bangladesh (_February 2018 - February 2023_)
+- High School Diploma | GPA: 5/5 | Notre Dame College | (_July 2018 - July 2023_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Research Student @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+## Undergraduate Thesis
+### Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
