@@ -1,14 +1,14 @@
-# Android & ML Engineer
+# Android & ML Application Engineer
 
 #### Technical Skills: Python, Java, Kotlin, Pytorch, tensorflow
 
 ## Education	 			        		
-- B.Sc in Computer Science & Engineering | The University of Dhaka, Bangladesh (_February 2018 - February 2023_)
+- B.Sc in CSE | University of Dhaka (_February 2023_)
 
 ## Work Experience
 **Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy.
+- Run experiments with a novel approach to detect user attentiveness using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness.
 
 **Research Student @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
