@@ -1,9 +1,9 @@
+# Android & ML Engineer
 
 #### Technical Skills: Python, Java, Kotlin, Pytorch, tensorflow
 
 ## Education	 			        		
-- B.Sc in Computer Science & Engineering | CGPA: 3.5/4 | The University of Dhaka, Bangladesh (_February 2018 - February 2023_)
-- High School Diploma | GPA: 5/5 | Notre Dame College | (_July 2018 - July 2023_)
+- B.Sc in Computer Science & Engineering | The University of Dhaka, Bangladesh (_February 2018 - February 2023_)
 
 ## Work Experience
 **Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
