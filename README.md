@@ -28,14 +28,14 @@
 
 Developed a command-line chatbot, using **python**, designed to assist students by providing quick and accurate responses to common queries. It handles questions related to class schedules, faculty details, and general inquiries, making it a helpful tool for managing academic information. The chatbot simplifies access to important details, allowing students to retrieve information without needing to navigate complex systems. Its user-friendly command-line interface ensures that students can interact with it efficiently.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Bot](/assets/img/dictionary.png)
 
 ### Dictionary.co
 [Link](https://github.com/faiazamin/Dictionaryco)
 
 Developed an Android-based English-to-Bangla dictionary app that efficiently translates English keywords into their corresponding Bengali words. The app uses the perfect hashing technique to map English words to their Bangla translations, ensuring fast and accurate retrieval. By leveraging this method, the dictionary optimizes performance, providing users with quick and reliable results without collisions or unnecessary delays.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/chatbot.png)
 
 ## Competitive Coding
 - codeforces rating: 1376 (max)
