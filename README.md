@@ -14,7 +14,7 @@
 - Run experiments with a novel approach to detect user attentiveness using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness.
 
 **Research Student @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of deep learning models on combinatorial optimization problem.
 
 ## Undergraduate Thesis
 **Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum**
