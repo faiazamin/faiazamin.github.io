@@ -10,8 +10,8 @@
 
 ## Work Experience
 **Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
-- Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy.
-- Run experiments with a novel approach to detect user attentiveness using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness.
+- Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy (Preceeding for a Patent).
+- Run experiments with a novel approach to detect user attentiveness using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness (Preceeding for a Patent).
 
 **Research Student @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of deep learning models on combinatorial optimization problem.
