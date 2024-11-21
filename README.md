@@ -68,11 +68,11 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 ![Bike Study](/assets/img/dictionary.png)
 
 ## Awards & Achievements
-- Samsung SWC Level: Professional
-- Samsung Excellency Award for the contribution in Galaxy Wearable App development
-- Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system
-- Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems.
-- Samsung CTO award for my performance in research & development
-- National Scholarship from Bangladesh Government for outstanding results in Secondary School Certificate Exam
+- Samsung SWC Level: Professional ![SWC](/assets/img/Certificate for Faiaz Amin Khan SWC00642.pdf)
+- Samsung Excellency Award for the contribution in Galaxy Wearable App development ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01371.pdf)
+- Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01469.pdf)
+- Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems. ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01799.pdf)
+- Samsung CTO award for my performance in research & development. ![SWC](/assets/img/CTO Certificate.pdf)
+- National Scholarship from Bangladesh Government for outstanding results in Secondary School Certificate Exam.
 - Ranked among the top 0.05% in Bangladesh University Entrance Examination.
 
