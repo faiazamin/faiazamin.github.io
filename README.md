@@ -8,12 +8,24 @@
 ## Education	 			        		
 - B.Sc in CSE | University of Dhaka (_February 2023_)
 
-## Work Experience
+## Experience
+#### Research
 **Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
 - Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy (In Progress for Patent).
-- Run experiments with a novel approach to detect user attentiveness using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness (In Progress for Patent).
+- Run experiments with a novel approach to measure user focus level using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness (In Progress for Patent).
+- Ideated and implemented the proof of concept for watchface complication recomendation system for Samsung Galaxy watches
+#### Development
+- Participated in the development and maintainance of local rendering feature for Galaxy watches.
+- wrote unit test cases for my teams submodules and increased the code coverage from 50% to 84%.
+- Analyzed and fixed product life cycle (PLM) issues and static analysis issues for our code module.
 
-**Research Student @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
+**Prompt Engineer @ Scale.AI (Outlier) (_March 2024 - November 2024_)**
+- Refined and structured the LLM model
+- Created and tested conversational flows
+- Set up conversational conditions and responses
+- Monitored LLM performance.
+
+**Research Aide @ Cognitive Agents and Interaction Lab (_March 2022 - February 2023_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of deep learning models on combinatorial optimization problem.
 
 ## Undergraduate Thesis
@@ -24,20 +36,41 @@
 
 ## Projects
 ### Classbot
+#### Tools: Python, scikit learn, nltk, numpy
 [Link](https://github.com/faiazamin/ClassBot)
 
 Developed a command-line chatbot, using **python**, designed to assist students by providing quick and accurate responses to common queries. It handles questions related to class schedules, faculty details, and general inquiries, making it a helpful tool for managing academic information. The chatbot simplifies access to important details, allowing students to retrieve information without needing to navigate complex systems. Its user-friendly command-line interface ensures that students can interact with it efficiently.
 
 ![Bot](/assets/img/chatbot.png)
+### Microcontroller Based Human Face Detector
+#### Tools: Arduino, C, C++
+Developed a microcontroller-based human detection system. An arduino based circuit system that included a camera and a microcontroller. I completed the circuit, implemented the logics and used computer vision algorithm to detect humans in the camera preview window.
+
+### Finding Important Factors for Movies Ratings
+[Link](https://github.com/faiazamin/important_factors_for_movieratings)
+#### Tools: R
+Developed a linear regression model that fits for the IMDB ratings for a movie. Here the dataset is a collection of information and rating both imdb and rotten tomatoes for 651 movies those were released before 2016.  Here my response variable will be IMDB ratings. I want know about the characteristics that make a movies more likely to get a better rating on IMDB. I perfromed the exploratory data analysis, checked the linearity and co-linearity between features, trained a linear regression model, and finally discussed end results.
+
+### Donate+
+[Link](https://github.com/faiazamin/Donate_plus)
+#### Tools: Java, Android Studio, Google Firebase, Google Maps
+Developed a android application that aims to connect blood donors to the patients those need blood for medical purpose. Users can create account with their contact and blood group informtaion and post request for blood. Our system will notify all the users having the same blood group within the locality. Interested blood donor can contact the patient and confirm the request. App will present the google map location of the patient so that donors find it easy to reach the designated institute.
 
 ### Dictionary.co
+#### Tools: Java, Android Studio
 [Link](https://github.com/faiazamin/Dictionaryco)
 
 Developed an Android-based English-to-Bangla dictionary app that efficiently translates English keywords into their corresponding Bengali words. The app uses the perfect hashing technique to map English words to their Bangla translations, ensuring fast and accurate retrieval. By leveraging this method, the dictionary optimizes performance, providing users with quick and reliable results without collisions or unnecessary delays.
 
 ![Bike Study](/assets/img/dictionary.png)
 
-## Competitive Coding
+## Awards & Achievements
 - codeforces rating: 1376 (max)
 - Samsung SWC Level: Professional
+- Samsung Excellency Award for the contribution in Galaxy Wearable App development
+- Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system
+- Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems.
+- Samsung CTO award for my performance in research & development
+- National Scholarship from Bangladesh Government for outstanding results in Secondary School Certificate Exam
+- Ranked among the top 0.05% in Bangladesh University Entrance Examination.
 
