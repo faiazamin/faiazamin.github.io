@@ -73,6 +73,6 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 - Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01469.pdf)
 - Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems. ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01799.pdf)
 - Samsung CTO award for my performance in research & development. ![SWC](/assets/img/CTO Certificate.pdf)
-- National Scholarship from Bangladesh Government for outstanding results in Secondary School Certificate Exam.
+- National Scholarship from Bangladesh Government for outstanding results (ranked among the top 0.04%) in Secondary School Certificate Exam.
 - Ranked among the top 0.05% in Bangladesh University Entrance Examination.
 
