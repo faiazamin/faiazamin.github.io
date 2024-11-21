@@ -9,11 +9,14 @@
 - B.Sc in CSE | University of Dhaka (_February 2023_)
 
 ## Experience
-#### Research
+
 **Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
+
+#### Research
 - Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy.
 - Run experiments with a novel approach to measure user focus level using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness.
 - Ideated and implemented the proof of concept for watchface complication recomendation system for Samsung Galaxy watches
+  
 #### Development
 - Participated in the development and maintainance of local rendering feature for Galaxy watches.
 - wrote unit test cases for my teams submodules and increased the code coverage from 50% to 84%.
