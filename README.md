@@ -19,7 +19,7 @@
   
 #### Development
 - Participated in the development and maintainance of local rendering feature for Galaxy watches.
-- wrote unit test cases for my teams submodules and increased the code coverage from 50% to 84%.
+- Wrote unit test cases for my teams submodules and increased the code coverage from 50% to 84%.
 - Analyzed and fixed product life cycle (PLM) issues and static analysis issues for our code module.
 
 **Prompt Engineer @ Scale.AI (Outlier) (_March 2024 - November 2024_)**
@@ -68,7 +68,6 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 ![Bike Study](/assets/img/dictionary.png)
 
 ## Awards & Achievements
-- codeforces rating: 1376 (max)
 - Samsung SWC Level: Professional
 - Samsung Excellency Award for the contribution in Galaxy Wearable App development
 - Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system
