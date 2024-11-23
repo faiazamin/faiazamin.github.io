@@ -1,7 +1,7 @@
 # Android & ML Application Engineer
 
 #### Research Interest: 
-- Intersection of AI, Robotics and IoT
+- Intersection of AI, Robotics, Biomedical and IoT
 - Multimodal Learning Model
 - Reinforcement Learning
 
