@@ -69,7 +69,7 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 
 ![Bike Study](/assets/img/dictionary.png)
 
-## Awards & Achievements
+## Technical Skills
 ### Programming Languages: 
 - Python
 - C/C++
