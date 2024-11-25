@@ -1,6 +1,6 @@
 # Android & ML Application Engineer
 
-#### Research Interest: 
+## Research Interest: 
 - Intersection of AI, Robotics, Biomedical and IoT
 - Multimodal Learning Model
 - Reinforcement Learning
@@ -68,6 +68,39 @@ Developed a android application that aims to connect blood donors to the patient
 Developed an Android-based English-to-Bangla dictionary app that efficiently translates English keywords into their corresponding Bengali words. The app uses the perfect hashing technique to map English words to their Bangla translations, ensuring fast and accurate retrieval. By leveraging this method, the dictionary optimizes performance, providing users with quick and reliable results without collisions or unnecessary delays.
 
 ![Bike Study](/assets/img/dictionary.png)
+
+## Awards & Achievements
+### Programming Languages: 
+- Python
+- C/C++
+- Java
+- JavaScript
+
+### Frameworks:
+- FastAPI
+- NodeJS
+- NestJS
+- Django
+- Flask
+- Material UI
+- Git
+- Jupyter Notebook
+- Kotlin
+- Airflow
+
+### Database:
+- MongoDB
+- PostgreSQL
+- MySQL
+- SQLite
+- Firebase
+### ML Toolkits:
+- PyTorch
+- TensorFlow
+- NumPy
+- Pandas
+- Scikit-Learn
+- Matplotlib
 
 ## Awards & Achievements
 - Samsung SWC Level: Professional ![SWC](/assets/img/Certificate for Faiaz Amin Khan SWC00642.pdf)
