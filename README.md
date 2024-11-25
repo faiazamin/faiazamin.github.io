@@ -94,6 +94,7 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 - MySQL
 - SQLite
 - Firebase
+  
 ### ML Toolkits:
 - PyTorch
 - TensorFlow
