@@ -11,7 +11,7 @@
 
 ## Experience
 
-**Engineer I (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
+**Engineer (Android & ML Application) @ Samsung R&D Institute (_June 2023 - Present_)**
 
 #### Research
 - Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy.
