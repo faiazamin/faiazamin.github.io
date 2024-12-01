@@ -87,6 +87,7 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 - Git
 - Jupyter Notebook
 - Kotlin
+- React.js
 - Airflow
 
 ### Database:
