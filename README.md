@@ -4,7 +4,7 @@
 - Intersection of AI, Robotics, Biomedical and IoT
 - Multimodal Learning Model
 - Reinforcement Learning
-- Computational Biology
+- Computational Biology & Biomedical AI
 
 ## Education	 			        		
 - B.Sc in CSE | University of Dhaka (_February 2023_)
