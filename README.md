@@ -106,11 +106,11 @@ Developed an Android-based English-to-Bangla dictionary app that efficiently tra
 - Matplotlib
 
 ## Awards & Achievements
-- Samsung SWC Level: Professional ![SWC](/assets/img/Certificate for Faiaz Amin Khan SWC00642.pdf)
-- Samsung Excellency Award for the contribution in Galaxy Wearable App development ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01371.pdf)
-- Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01469.pdf)
-- Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems. ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01799.pdf)
-- Samsung CTO award for my performance in research & development. ![SWC](/assets/img/CTO Certificate.pdf)
-- National Scholarship from Bangladesh Government for outstanding results (ranked among the top 0.04%) in Secondary School Certificate Exam.
+- Samsung SWC Level: Professional ![SWC](/assets/img/Certificate for Faiaz Amin Khan SWC00642.png)
+- Samsung Excellency Award for the contribution in Galaxy Wearable App development ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01371.png)
+- Samsung Excellency Award for the contribution in the R&D of watchface complication recomendation system ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01469.png)
+- Samsung Excellency Award for the contribution in the R&D of features for earbuds and voice assistant systems. ![SWC](/assets/img/Certificate for Faiaz Amin Khan 01799.png)
+- Samsung CTO award for my performance in research & development. ![SWC](/assets/img/CTO Certificate.png)
+- National Scholarship from Bangladesh Government for outstanding results (ranked among the top 0.04%) in Secondary School Certificate Exam.[Link](https://drive.google.com/file/d/1aquC8qmg4BX_rdvBsvOk1nUpAV-Lc4di/view?usp=sharing)
 - Ranked among the top 0.05% in Bangladesh University Entrance Examination.
 
