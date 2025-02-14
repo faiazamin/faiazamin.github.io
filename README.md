@@ -20,6 +20,7 @@
 - Co-developed the AI based perspective distortion removal feature in Samsung cameras. 
   
 #### Development
+- Independently developed the “Recommended for You” feature, which personalises watchface recommendations.
 - Participated in the development and maintainance of local rendering feature for Galaxy watches.
 - Wrote unit test cases for my teams submodules and increased the code coverage from 50% to 84%.
 - Analyzed and fixed product life cycle (PLM) issues and static analysis issues for our code module.
