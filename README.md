@@ -1,6 +1,8 @@
 # Android & ML Application Engineer
 
 ## Research Interest: 
+- AI in health care
+- HAI for health care
 - Intersection of AI, Robotics, Biomedical and IoT
 - Multimodal Learning Model
 - Reinforcement Learning
