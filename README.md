@@ -38,18 +38,16 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of deep learning models on combinatorial optimization problem.
 
 ## Publications & Patent
-**Method For AI Based Real Time Perspective Distortion Correction In Tilt Photography 
--Actively collaborated on the development of a novel mechanism to correct perspective distortion in tilt-shift
-photography using Samsung phone.
--The approach integrates computer vision techniques with the Scheimpflug principle for enhanced image
-rectification.
+**Method For AI Based Real Time Perspective Distortion Correction In Tilt Photography** (A1 patent grade)
+-Actively collaborated on the development of a novel mechanism to correct perspective distortion in tilt-shift photography using Samsung phone.
+-The approach integrates computer vision techniques with the Scheimpflug principle for enhanced image rectification.
 
-**Method For Acoustic Signal Based Button Free Positional Tap Input Mechanism For Headless Devices
+**Method For Acoustic Signal Based Button Free Positional Tap Input Mechanism For Headless Devices** (A2 patent grade)
 - Led the development of a novel input sensing mechanism for headless device.
 - Analyzed acoustic signal and performed sound source isolation technique capture the target signal.
 - Developed a deep learning based architecture to differentiate between ultra low intensity signal patterns.
 
-**Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum**
+**Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum** (Final Year Poster Presentation Compitition, University of Dhaka)
 - Uncovered novel deep learning-based solution for the Traveling Salesman Problem (TSP), improving solution efficiency.
 - Integrated TSP 1.5-approximation algorithm into the complexity function, enhancing model accuracy.
 - Developed an enhanced benchmark model using the REINFORCE algorithm, outperforming the greedy roll-out method.
