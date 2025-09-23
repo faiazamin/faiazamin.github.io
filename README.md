@@ -19,7 +19,7 @@
 #### Research
 - Developed a tone and context-based keyword recognition system for Samsung phones, enhancing voice interaction accuracy.
 - Run experiments with a novel approach to measure user focus level using Samsung Earbuds, phone, computer vision, UWB, and EEG signals, improving real-time responsiveness.
-- Ideated and implemented the proof of concept for watchface complication recomendation system for Samsung Galaxy watches
+- Ideated and implemented the proof of concept for context aware and activity-based personal health information recommendation system for Samsung Galaxy watches
 - Co-developed the AI based perspective distortion removal feature in Samsung cameras. 
   
 #### Development
