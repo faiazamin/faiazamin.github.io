@@ -57,6 +57,35 @@
 - #### Improvement on the Performative Time-series Forcasting [Link](https://dl.acm.org/doi/abs/10.1145/3711896.3737078)
 
 ## Projects
+
+### Lunar_MNIST_NET
+#### Tools: Python, pytorch, mlflow, dvc, numpy
+[Link](https://github.com/faiazamin/lunar_mnist_net)
+
+Developed a compact deep-learning workflow, using Python and PyTorch, designed to classify handwritten digits with the MNIST dataset. It defines a simple network (MNISTNet) and a training pipeline (train() helper) so users can quickly train and test a model. The repository supports both CPU and GPU, is structured for testing with pytest, and is intended as a minimal, clean example for experimentation and learning. 
+
+### Donate+
+[Link](https://github.com/faiazamin/Donate_plus)
+#### Tools: Java, Android Studio, Google Firebase, Google Maps
+Developed a android application that aims to connect blood donors to the patients those need blood for medical purpose. Users can create account with their contact and blood group informtaion and post request for blood. Our system will notify all the users having the same blood group within the locality. Interested blood donor can contact the patient and confirm the request. App will present the google map location of the patient so that donors find it easy to reach the designated institute.
+
+### Finding Important Factors for Movies Ratings
+[Link](https://github.com/faiazamin/important_factors_for_movieratings)
+#### Tools: R
+Developed a linear regression model that fits for the IMDB ratings for a movie. Here the dataset is a collection of information and rating both imdb and rotten tomatoes for 651 movies those were released before 2016.  Here my response variable will be IMDB ratings. I want know about the characteristics that make a movies more likely to get a better rating on IMDB. I perfromed the exploratory data analysis, checked the linearity and co-linearity between features, trained a linear regression model, and finally discussed end results.
+
+### Market Search Buddy
+#### Tools: python, deepseek, bright data, lannchain, langraph
+[Link](https://github.com/faiazamin/market_search_buddy)
+
+Developed a market-data exploration tool, using Python, designed to let users quickly fetch and analyze financial market data and trends from the command line or notebook environment. It integrates with market APIs to retrieve key metrics, filter by symbol, timeframe or sector, and supports basic visualization of results. The project simplifies access to market-insights without navigating multiple dashboards, making research faster and more focused.
+
+### AI Meal Planner
+#### Tools: Next.js, deepseek, lannchain, astraDB
+[Link](https://github.com/faiazamin/ai_meal_planner)
+
+Developed a personalized meal-planning web app, built with TypeScript, Next.js, and Tailwind CSS, designed to generate AI-powered meal plans based on user inputs like fitness goals, dietary restrictions, and age. The app connects to an AI API to dynamically produce customized meal suggestions, allowing users to obtain nutrition guidance through an intuitive browser interface. The clean front-end workflow and built-in environment variable support streamline deployment and iteration.
+
 ### Classbot
 #### Tools: Python, scikit learn, nltk, numpy
 [Link](https://github.com/faiazamin/ClassBot)
@@ -67,16 +96,6 @@ Developed a command-line chatbot, using **python**, designed to assist students 
 ### Microcontroller Based Human Face Detector
 #### Tools: Arduino, C, C++
 Developed a microcontroller-based human detection system. An arduino based circuit system that included a camera and a microcontroller. I completed the circuit, implemented the logics and used computer vision algorithm to detect humans in the camera preview window.
-
-### Finding Important Factors for Movies Ratings
-[Link](https://github.com/faiazamin/important_factors_for_movieratings)
-#### Tools: R
-Developed a linear regression model that fits for the IMDB ratings for a movie. Here the dataset is a collection of information and rating both imdb and rotten tomatoes for 651 movies those were released before 2016.  Here my response variable will be IMDB ratings. I want know about the characteristics that make a movies more likely to get a better rating on IMDB. I perfromed the exploratory data analysis, checked the linearity and co-linearity between features, trained a linear regression model, and finally discussed end results.
-
-### Donate+
-[Link](https://github.com/faiazamin/Donate_plus)
-#### Tools: Java, Android Studio, Google Firebase, Google Maps
-Developed a android application that aims to connect blood donors to the patients those need blood for medical purpose. Users can create account with their contact and blood group informtaion and post request for blood. Our system will notify all the users having the same blood group within the locality. Interested blood donor can contact the patient and confirm the request. App will present the google map location of the patient so that donors find it easy to reach the designated institute.
 
 ### Dictionary.co
 #### Tools: Java, Android Studio
