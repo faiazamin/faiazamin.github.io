@@ -53,7 +53,7 @@
 - Developed an enhanced benchmark model using the REINFORCE algorithm, outperforming the greedy roll-out method.
 
 ## SpotLight
-![Bot](/assets/img/chatbot.png)
+![Bot](/assets/img/Luncheon.jpeg)
 
 On October 21, 2025, Samsung Research Bangladesh (SRBD) hosted a special luncheon celebrating all inventors whose innovations achieved patent-grade recognition this year.
 The event honored the creative minds behind cutting-edge research projects that are now being prepared for patent filing with KIPO (Korean Intellectual Property Office).
