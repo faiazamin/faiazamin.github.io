@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Highlights"
+    url: /highlights/
+  - title: "Media Lab Portfolio"
+    url: /media-lab/

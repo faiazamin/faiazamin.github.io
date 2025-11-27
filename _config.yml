@@ -1,5 +1,66 @@
-title: Faiaz Amin Khan
-logo: /assets/img/my_img.jpeg
-#description: text below image
-show_downloads: False
-theme: jekyll-theme-minimal
+title: "Faiaz Amin Khan"
+name: "Faiaz Amin Khan"
+description: "I build intelligent sensing systems for health, behavior, and interaction—combining mobile computing, multimodal sensing, and on-device AI."
+url: "https://faiazamin.github.io"
+baseurl: "" # keep empty for user site
+
+# Minimal Mistakes settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # you can try "air", "plum", "contrast", etc.
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Site author
+author:
+  name: "Faiaz Amin Khan"
+  avatar: "/assets/images/profile.jpg" # add later if you want
+  bio: "Software Engineer at Samsung Research. I design AI-driven sensing and health features for Galaxy wearables."
+  location: "Dhaka, Bangladesh"
+  email: "your_email@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/faiazamin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/..."
+    - label: "CV"
+      icon: "far fa-file-alt"
+      url: "/assets/Faiaz_CV.pdf"
+
+# Navigation
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "projects"
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+permalink: /:categories/:title/
