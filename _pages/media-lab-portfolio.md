@@ -14,7 +14,7 @@ A new **acoustic interaction channel** for ring-like and screenless wearables us
 - Robust to **noise and everyday environments**
 - Designed for **subtle, eyes-free interaction**
 
-[Project details »](/projects/acoustic-input-headless-wearables/)
+[Project details »]({{ "/projects/acoustic-input-headless-wearables/" | relative_url }})
 
 ---
 
@@ -26,7 +26,7 @@ A **multimodal health insight system** that fuses IMU, PPG, pressure, and contex
 - Demonstrated at the **Samsung AI POC Exhibition**
 - Built to run in consumer-scale wearable ecosystems
 
-[Project details »](/projects/activity-health-insights/)
+[Project details »]({{ "/projects/activity-health-insights/" | relative_url }})
 
 ---
 

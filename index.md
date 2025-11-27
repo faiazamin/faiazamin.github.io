@@ -25,7 +25,7 @@ My long-term goal is to build **intelligent, context-aware systems** that turn e
 A low-power **acoustic input mechanism** for ring-like and headless wearables using **MFCC + spectrogram-based modeling** on commodity microphones.  
 🛈 Awarded **Samsung A2 patent grade**, selected for filing at KIPO.
 
-[Read more »](/projects/acoustic-input-headless-wearables/)
+[Read more »]({{ "/projects/acoustic-input-headless-wearables/" | relative_url }})
 
 ---
 
@@ -33,14 +33,14 @@ A low-power **acoustic input mechanism** for ring-like and headless wearables us
 A **multimodal health insight engine** that fuses **IMU, PPG, pressure, and Samsung Health context** to generate **personalized activity-based insights** on Galaxy Watches.  
 🛈 Demonstrated at **Samsung AI POC Exhibition (SRBD)**.
 
-[Read more »](/projects/activity-health-insights/)
+[Read more »]({{ "/projects/activity-health-insights/" | relative_url }})
 
 ---
 
 ### RL-based TSP with Hardness-Adaptive Curriculum
 Undergraduate thesis on **Reinforcement Learning** with a **hardness-adaptive curriculum** for solving the **Travelling Salesman Problem**, improving stability and sample efficiency over baselines.
 
-[Read more »](/projects/rl-tsp-hac/)
+[Read more »]({{ "/projects/rl-tsp-hac/" | relative_url }})
 
 ---
 

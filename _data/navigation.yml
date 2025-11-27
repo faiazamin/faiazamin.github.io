@@ -2,12 +2,12 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: pages/about/
+    url: /about/
   - title: "Research"
-    url: pages/research/
+    url: /research/
   - title: "Projects"
-    url: pages/projects/
+    url: /projects/
   - title: "Highlights"
-    url: pages/highlights/
+    url: /highlights/
   - title: "Media Lab Portfolio"
-    url: pages/media-lab/
+    url: /media-lab/

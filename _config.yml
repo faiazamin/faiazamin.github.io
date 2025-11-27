@@ -2,7 +2,7 @@ title: "Faiaz Amin Khan"
 name: "Faiaz Amin Khan"
 description: "I build intelligent sensing systems for health, behavior, and interaction—combining mobile computing, multimodal sensing, and on-device AI."
 url: "https://faiazamin.github.io"
-baseurl: "" # keep empty for user site
+baseurl: "/test_portfolio" # set to repo name for project site; leave blank only for user site
 
 # Minimal Mistakes settings
 remote_theme: "mmistakes/minimal-mistakes"
