@@ -1,5 +1,5 @@
 ---
-title: "Media Lab–Focused Portfolio"
+title: "Graduate Application Portfolio"
 permalink: /media-lab/
 ---
 
