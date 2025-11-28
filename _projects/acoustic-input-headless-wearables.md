@@ -24,10 +24,10 @@ We wanted to enable **reliable, low-effort input** without adding new hardware.
 
 ## Approach
 
-- ***Hardware***: Used the watch/phone’s built-in **microphones** as sensors
-- ***Data Collection***: Captured **low-intensity acoustic events**
-- ***Preprocessing***: Extracted **MFCCs and spectrogram features** on-device
-- ***Analyzer***: Trained a lightweight classifier to distinguish input patterns vs noise
+- *Hardware*: Used the watch/phone’s built-in **microphones** as sensors
+- *Data Collection*: Captured **low-intensity acoustic events**
+- *Preprocessing*: Extracted **MFCCs and spectrogram features** on-device
+- *Analyzer*: Trained a lightweight classifier to distinguish input patterns vs noise
 
 ## My Contributions
 
