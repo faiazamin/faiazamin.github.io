@@ -25,21 +25,21 @@ We wanted to enable **reliable, low-effort input** without adding new hardware.
 ## Approach
 
 - ***Hardware***: Used the watch/phone’s built-in **microphones** as sensors
-- ***Data Collection***:Captured **low-intensity acoustic events**
-- ***Preprocessing***:Extracted **MFCCs and spectrogram features** on-device
-- ***Analyzer***:Trained a lightweight classifier to distinguish input patterns vs noise
+- ***Data Collection***: Captured **low-intensity acoustic events**
+- ***Preprocessing***: Extracted **MFCCs and spectrogram features** on-device
+- ***Analyzer***: Trained a lightweight classifier to distinguish input patterns vs noise
 
 ## My Contributions
 
 I owned the research lifecycle from ideation to patent filing:
 
-- Ideation: Theorized the use of structure-borne acoustics for input.
+- *Ideation*: Theorized the use of structure-borne acoustics for input.
 
-- Prototyping: Built the data collection rig and collected 500+ samples of 'tap' vs. 'noise.'
+- *Prototyping*: Built the data collection rig and collected 500+ samples of 'tap' vs. 'noise.'
 
-- Algorithm Design: Designed the specific MFCC feature extraction parameters to run on watch or Mobile device.
+- *Algorithm Design*: Designed the specific MFCC feature extraction parameters to run on watch or Mobile device.
 
-- Validation: Achieved >95% accuracy in controlled environments.
+- *Validation*: Achieved >95% accuracy in controlled environments.
 
 ## Impact
 
