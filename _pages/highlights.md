@@ -2,7 +2,6 @@
 title: "Highlights"
 permalink: /highlights/
 ---
-## Spotlight
 
 ![Patent Luncheon]({{ "/assets/img/Luncheon.jpeg" | relative_url }})
 
