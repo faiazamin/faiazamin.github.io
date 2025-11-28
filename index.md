@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: "Faiaz Amin Khan"
+title: "Faiaz Amin Khan - R&D Engineer and Inventor"
 permalink: /
 ---
 
-# Hi, I’m Faiaz 👋
+# Hi, I’m Faiaz - Bridging Novel Sensing & Contextual Intelligence👋
 
-I’m a Software Engineer at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing systems** for **Galaxy Watches** and the **Galaxy Wearable App**.
+I’m a Research Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**.
 
 I work at the intersection of:
 
