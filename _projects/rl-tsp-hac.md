@@ -17,3 +17,8 @@ Undergraduate thesis project exploring a **Reinforcement Learning approach** to 
 
 - Improved training stability over greedy roll-out baselines.
 - Demonstrated higher-quality tours on medium-sized TSP instances.
+
+## Poster & Certificate
+
+- Poster — [View poster]({{ "/assets/img/poster.png" | relative_url }})
+- Poster presentation certificate — [View certificate]({{ "/assets/img/certificate.png" | relative_url }})
