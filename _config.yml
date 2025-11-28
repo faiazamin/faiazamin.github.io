@@ -20,7 +20,7 @@ plugins:
 author:
   name: "Faiaz Amin Khan"
   avatar: "/assets/img/my_img.jpeg" # add later if you want
-  bio: "Software Engineer at Samsung Research. I design AI-driven sensing and health features for Galaxy wearables."
+  bio: "I research and build systems that span the physical-digital divide. From designing patent-grade acoustic sensors at Samsung R&D to deploying agentic AI workflows, my work focuses on decoding human signals to create seamless, intelligent interactions."
   location: "Dhaka, Bangladesh"
   email: "faiazamin443@gmail.com"
   links:
