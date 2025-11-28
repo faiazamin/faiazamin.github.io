@@ -5,9 +5,9 @@ permalink: /highlights/
 
 ![Patent Luncheon]({{ "/assets/img/Luncheon.jpeg" | relative_url }})
 
-On October 21, 2025, Samsung Research Bangladesh (SRBD) hosted a special luncheon celebrating all inventors whose innovations achieved patent-grade recognition this year. The event honored the creative minds behind cutting-edge research projects that are now being prepared for patent filing with KIPO (Korean Intellectual Property Office).
+Selected as a key contributor to Samsung Research Bangladesh's 2025 Intellectual Property goals. Out of the lab's targeted patent-grade innovations, two of my research projects (Acoustic Input & Distortion Correction) were selected for filing.
 
-SRBD’s goal for 2025 was to propose 11 patent-grade innovations, and I’m proud to share that two of my research projects were among those selected. Being part of this group photograph represents more than an achievement—it reflects the collaborative spirit and forward-thinking culture that drive innovation at Samsung Research Bangladesh.
+This recognition highlights my dual role as an R&D engineer and an inventor capable of generating novel, protectable intellectual property.
 
 
 ## Samsung Research Highlights
