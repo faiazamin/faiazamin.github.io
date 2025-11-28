@@ -4,6 +4,8 @@ title: "Faiaz Amin Khan - R&D Engineer and Inventor"
 permalink: /
 ---
 
+
+
 # Hi, I’m Faiaz 👋
 **Bridging Novel Sensing & Contextual Intelligence**
 
