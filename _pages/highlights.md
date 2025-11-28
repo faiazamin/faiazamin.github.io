@@ -37,7 +37,7 @@ SRBD’s goal for 2025 was to propose 11 patent-grade innovations, and I’m pro
   [Certificate]({{ "/assets/img/Certificate for Faiaz Amin Khan 01469.png" | relative_url }})
 - 🏅 **Excellence Award — Samsung R&D Institute Bangladesh** (Apr–Jun 2024) · Ref: 01799  
   [Certificate]({{ "/assets/img/Certificate for Faiaz Amin Khan 01799.png" | relative_url }})
-- 🏆 **National Scholarship (Bangladesh Govt.)** — ranked top 0.04% in SSC exam  
+- 🏆 **National Scholarship (Bangladesh Govt.)** — ranked top 0.04% in SSC exam  held nationwide
   [Scholarship letter](https://drive.google.com/file/d/1aquC8qmg4BX_rdvBsvOk1nUpAV-Lc4di/view)
 
 
