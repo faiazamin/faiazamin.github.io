@@ -23,23 +23,18 @@ Wearables today suffer from a 'Data Rich, Insight Poor' paradox. They are excell
 Building a recommendation engine for a wrist-worn device presented three unique challenges:
 
 - *The Cold Start*: How to provide meaningful advice to a brand-new user with zero historical data?
-
 - *Context Blindness*: A high heart rate means 'exercise' in the gym, but 'stress' in a meeting. Simple sensors cannot distinguish this context.
-
 - *Notification Fatigue*: Generic 'Time to move!' alerts are often ignored. We needed hyper-personalization to ensure user engagement.
 
 ## Approach
 **Note**: *Specific algorithmic weights and proprietary logic are omitted to comply with Samsung R&D intellectual property regulations. The following is a high-level overview of the methodology.*
 
-1. Data Fusion (Input Layers) The engine aggregates three concurrent data streams:
+*Data Fusion* (Input Layers) The engine aggregates three concurrent data streams:
 
-Physiological Layer: Samsung Health Data.
-
-Physical Layer: IMU data to classify micro-activities.
-
-Situational Layer: visuals, acoustics, app data.
-
-2. Adaptive Inference (The Intelligence) To solve the "Cold Start" problem for new users, I implemented a Hybrid Learning Strategy. The system initially uses heuristic bootstrapping based on clinical best practices, then seamlessly transitions to collaborative filtering as user interaction data accumulates, tailoring the timing of insights to individual behavior.
+- Physiological Layer: Samsung Health Data.
+- Physical Layer: IMU data to classify micro-activities.
+- Situational Layer: visuals, acoustics, app data.
+*Adaptive Inference* (The Intelligence) To solve the "Cold Start" problem for new users, I implemented a Hybrid Learning Strategy. The system initially uses heuristic bootstrapping based on clinical best practices, then seamlessly transitions to collaborative filtering as user interaction data accumulates, tailoring the timing of insights to individual behavior.
 
 
 ## My Contributions
