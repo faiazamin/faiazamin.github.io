@@ -3,7 +3,7 @@ title: "Research Interests"
 permalink: /research/
 ---
 
-My work sits at the intersection of **machine learning, ubiquitous computing, and health sensing**.
+My research focuses on the full stack of human augmentation: designing novel sensing mechanisms that capture physiological signals and building agentic machine intelligence workflows that decode those **signals into proactive health and interaction insights**.
 
 ## Core Research Themes
 
