@@ -21,7 +21,7 @@ I’m Faiaz, a **Software Engineer at Samsung Research (Wearable Solutions Lab)*
 
 - **Senior Engineer (Android & ML Application) @ Samsung R&D Institute** (_Jun 2023–Present_)  
   - Research: context-aware health info recommendations for Galaxy Watch; AI-based perspective distortion removal for cameras, tone/context-based keyword recognition for Samsung phones; focus-level sensing with earbuds, phone, CV, UWB, and EEG; .  
-  - Development: built “Recommended for You” watchface recommendations; maintained local rendering for Galaxy Watches; raised test coverage (50% → 84%); fixed PLM and static-analysis issues.
+  - Development: built mechanistic recommendation process for Galaxy Wearable App; maintained local rendering for Galaxy Watches; raised test coverage (50% → 84%); fixed PLM and static-analysis issues.
 - **Prompt Engineer @ Scale AI (Outlier)** (_Mar 2024–Nov 2024_)  
   - Refined LLM prompts, conversational flows, and conditions; set guardrails and monitored performance quality.
 - **Research Aide @ Cognitive Agents & Interaction Lab** (_Mar 2022–Feb 2023_)  

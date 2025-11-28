@@ -17,6 +17,14 @@ permalink: /highlights/
 
 - 🧪 Multiple internal POCs in **multimodal sensing**, **health informatics**, and **novel interaction** for Galaxy devices
 
+## Spotlight
+
+![Patent Luncheon]({{ "/assets/img/Luncheon.jpeg" | relative_url }})
+
+On October 21, 2025, Samsung Research Bangladesh (SRBD) hosted a special luncheon celebrating all inventors whose innovations achieved patent-grade recognition this year. The event honored the creative minds behind cutting-edge research projects that are now being prepared for patent filing with KIPO (Korean Intellectual Property Office).
+
+SRBD’s goal for 2025 was to propose 11 patent-grade innovations, and I’m proud to share that two of my research projects were among those selected. Being part of this group photograph represents more than an achievement—it reflects the collaborative spirit and forward-thinking culture that drive innovation at Samsung Research Bangladesh.
+
 ## Awards & Achievements
 
 - 🏅 **Excellence Award — Samsung R&D Institute Bangladesh** (Apr–Jun 2023) · Ref: 01371  
