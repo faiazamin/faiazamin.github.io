@@ -3,7 +3,7 @@ title: "Graduate Application Portfolio"
 permalink: /media-lab/
 ---
 
-This page curates a subset of my work most aligned with **Media Lab-style research**:  
+This page curates a subset of my work most aligned with **Graduate Application**:  
 **novel sensing, wearable computing, personal informatics, and human-centered AI.**
 
 ## 1. Acoustic Input for Headless Wearables
