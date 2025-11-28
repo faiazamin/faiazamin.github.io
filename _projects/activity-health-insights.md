@@ -34,6 +34,7 @@ Building a recommendation engine for a wrist-worn device presented three unique 
 - Physiological Layer: Samsung Health Data.
 - Physical Layer: IMU data to classify micro-activities.
 - Situational Layer: visuals, acoustics, app data.
+  
 *Adaptive Inference* (The Intelligence) To solve the "Cold Start" problem for new users, I implemented a Hybrid Learning Strategy. The system initially uses heuristic bootstrapping based on clinical best practices, then seamlessly transitions to collaborative filtering as user interaction data accumulates, tailoring the timing of insights to individual behavior.
 
 
