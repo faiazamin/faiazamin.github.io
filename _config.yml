@@ -32,7 +32,7 @@ author:
       url: "https://www.linkedin.com/in/faiaz-amin-khan-05581a179/"
     - label: "CV"
       icon: "far fa-file-alt"
-      url: "/assets/Faiaz_CV_PhD.pdf"
+      url: "/assets/img/Faiaz_CV_PhD.pdf"
 
 # Navigation
 collections:
