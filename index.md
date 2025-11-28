@@ -6,6 +6,7 @@ permalink: /
 
 # Hi, I’m Faiaz 👋
 **Bridging Novel Sensing & Contextual Intelligence**
+---
 
 I’m a Research Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**.
 
