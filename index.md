@@ -7,6 +7,13 @@ permalink: /
 
 
 # Hi, I’m Faiaz 👋
+
+<p align="center" style="margin: 1.5rem 0;">
+  <img src="{{ '/assets/img/my_img.jpeg' | relative_url }}"
+       alt="Faiaz Amin Khan portrait"
+       style="max-width: 240px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);" />
+</p>
+
 **Bridging Novel Sensing & Contextual Intelligence**
 
 ---
