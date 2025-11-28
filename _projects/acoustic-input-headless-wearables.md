@@ -8,6 +8,7 @@ permalink: /projects/acoustic-input-headless-wearables/
 A novel **acoustic input mechanism** for headless and ring-like wearable devices that uses **low-intensity sound** and **MFCC + spectrogram modeling** to detect subtle user actions.
 
 Awarded **Samsung A2 patent grade** and selected for **KIPO patent filing**.
+
 ##Why
 As wearables shrink (smart rings, loops), screens disappear. I realized that current 'headless' devices rely on voice (not private) or active buttons (bulky). I observed that people naturally tap surfaces to fidget or signal. I wondered: Could we repurpose the device's internal microphone—not to hear voice, but to 'feel' these mechanical taps?
 
