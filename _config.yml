@@ -20,7 +20,7 @@ plugins:
 author:
   name: "Faiaz Amin Khan"
   avatar: "/assets/img/my_img.jpeg" # add later if you want
-  bio: "I research and build systems that span the physical-digital divide. From designing patent-grade acoustic sensors at Samsung R&D to deploying agentic AI workflows, my work focuses on decoding human signals to create seamless, intelligent interactions."
+  bio: "I research and build systems that span the physical-digital divide. From designing patent-grade acoustic sensing mechanism at Samsung R&D to deploying AI workflows in resource contrained device, my work focuses on decoding human signals to create seamless, intelligent interactions."
   location: "Dhaka, Bangladesh"
   email: "faiazamin443@gmail.com"
   links:
