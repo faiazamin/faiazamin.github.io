@@ -12,12 +12,19 @@ I’m Faiaz, a **Software Engineer at Samsung Research (Wearable Solutions Lab)*
 - Prototype **novel interaction modalities** for wearables and mobile health
 - Collaborate with designers and researchers to bring POCs into product pathways
 
-### Recent highlights
+### Education
 
-- 🏅 **Samsung A2 patent grade** for an **acoustic-signal–based input mechanism** for headless wearables (pending KIPO filing)
-- 🏅 Activity-based **health insight recommendation system** showcased at **Samsung AI POC Exhibition (SRBD)**
-- 📊 Contributions to **CV-based perspective distortion correction** for mobile photography, awarded **A1 patent grade**
-- 🎓 B.Sc. in Computer Science & Engineering, University of Dhaka  
+- 🎓 **B.Sc. in Computer Science & Engineering**, University of Dhaka  
   Thesis: *“Deep Learning Approach to Solving the Travelling Salesman Problem with Hardness-Adaptive Curriculum”*
 
-Outside of work, I’m into **math contests**, **competitive programming**, and lately I’m trying to become a **decent cook** and explore new cuisines.
+### Experience
+
+- **Senior Engineer (Android & ML Application) @ Samsung R&D Institute** (_Jun 2023–Present_)  
+  - Research: context-aware health info recommendations for Galaxy Watch; AI-based perspective distortion removal for cameras, tone/context-based keyword recognition for Samsung phones; focus-level sensing with earbuds, phone, CV, UWB, and EEG; .  
+  - Development: built “Recommended for You” watchface recommendations; maintained local rendering for Galaxy Watches; raised test coverage (50% → 84%); fixed PLM and static-analysis issues.
+- **Prompt Engineer @ Scale AI (Outlier)** (_Mar 2024–Nov 2024_)  
+  - Refined LLM prompts, conversational flows, and conditions; set guardrails and monitored performance quality.
+- **Research Aide @ Cognitive Agents & Interaction Lab** (_Mar 2022–Feb 2023_)  
+  - Collected, processed, and analyzed data for deep-learning studies on combinatorial optimization.
+
+Outside of work, I’m into **math contests**, **travelling**, **hiking**, **swimming** and lately I’m trying to become a **decent cook** and explore new cuisines.
