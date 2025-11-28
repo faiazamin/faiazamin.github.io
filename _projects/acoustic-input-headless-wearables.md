@@ -24,6 +24,8 @@ We wanted to enable **reliable, low-effort input** without adding new hardware.
 
 ## Approach
 
+**Note**: *Specific architectural parameters and circuit designs are omitted to comply with Samsung R&D intellectual property regulations. The following is a high-level overview of the methodology.*
+
 - *Hardware*: Used the watch/phone’s built-in **microphones** as sensors
 - *Data Collection*: Captured **low-intensity acoustic events**
 - *Preprocessing*: Extracted **MFCCs and spectrogram features** on-device
