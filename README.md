@@ -42,7 +42,7 @@
 - Actively collaborated on the development of a novel mechanism to correct distortion in photography using Samsung phone.
 - The approach integrates computer vision techniques with the Scheimpflug principle for enhanced image rectification.
 
-**Method For Acoustic Signal Based Input Mechanism s** (_A2 patent grade_, _Pending filing at KIPO_)
+**Method For Acoustic Signal Based Input Mechanism ** (_A2 patent grade_, _Pending filing at KIPO_)
 - Led the development of a novel input sensing mechanism for devices.
 - Analyzed acoustic signal and performed sound source isolation technique capture the target signal.
 - Developed a deep learning based architecture to differentiate between ultra low intensity signal patterns.
