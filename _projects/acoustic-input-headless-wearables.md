@@ -5,48 +5,45 @@ permalink: /projects/acoustic-input-headless-wearables/
 
 ## Overview
 
-A novel **acoustic input mechanism** for headless and ring-like wearable devices that uses **low-intensity sound** and **MFCC + spectrogram modeling** to detect subtle user actions.
+A novel **acoustic input mechanism** for Samsung wearable devices that uses **low-intensity sound** and **MFCC + spectrogram modeling** to detect subtle user actions.
 
-Awarded **Samsung A2 patent grade** and selected for **KIPO patent filing**.
+Awarded **Samsung A2 patent grade**.
 
 ## Why ?
-As wearables shrink (smart rings, loops), screens disappear. I realized that current 'headless' devices rely on voice (not private) or active buttons (bulky). I observed that people naturally tap surfaces to fidget or signal. I wondered: Could we repurpose the device's internal microphone—not to hear voice, but to 'feel' these mechanical taps?
-
+As wearables shrink, screens disappear. I realized that current 'headless' devices rely on voice (not private) or active buttons (bulky). I wondered: Could we repurpose the device's internal microphone—not to hear voice, but to 'feel' activities?
 ## Problem
 
-Headless wearables (e.g., rings, bands, loops) have:
+Wearables have:
 
-- No screen
+- Limited visual interface
 - Severely constrained input surface
 - Strong power and compute limits
 
 We wanted to enable **reliable, low-effort input** without adding new hardware.
 
-## Approach
+## Approach *(High-level, NDA-compliant)*
 
 **Note**: *Specific architectural parameters and circuit designs are omitted to comply with Samsung R&D intellectual property regulations. The following is a high-level overview of the methodology.*
 
-- *Hardware*: Used the watch/phone’s built-in **microphones** as sensors
+- *Hardware*: Used the Samsung Engineering devices' built-in **microphones** as sensors
 - *Data Collection*: Captured **low-intensity acoustic events**
 - *Preprocessing*: Extracted **MFCCs and spectrogram features** on-device
 - *Analyzer*: Trained a lightweight classifier to distinguish input patterns vs noise
 
 ## My Contributions
 
-I owned the research lifecycle from ideation to patent filing:
+I led this project across the full research lifecycle:
 
-- *Ideation*: Theorized the use of structure-borne acoustics for input.
+- **Conceptualization**: Proposed  acoustics as a private input modality for  wearables  
+- **Prototyping**: Built data collection pipelines and curated labeled acoustic interaction datasets  
+- **Algorithm Design**: Developed low-power acoustic feature processing suitable for wearable deployment  
+- **Validation**: Demonstrated reliable differentiation between target input and environmental noise  
 
-- *Prototyping*: Built the data collection rig and collected 500+ samples of 'tap' vs. 'noise.'
-
-- *Algorithm Design*: Designed the specific MFCC feature extraction parameters to run on watch or Mobile device.
-
-- *Validation*: Achieved >95% accuracy in controlled environments.
 
 ## Impact
 
 - A2 internal patent grade → high novelty and strategic importance
-- Pending patent filing at KIPO
+- Pending patent application filing 
 - Demonstrated feasibility of **acoustic sensing as an input channel** for future wearable form factors
 
 ## Retrospective: Key Learnings
