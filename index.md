@@ -17,7 +17,7 @@ permalink: /
 **Bridging Novel Sensing & Contextual Intelligence**
 
 ---
-I’m a Research Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**
+I’m a Research Software Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**
 
 I work at the intersection of:
 
@@ -48,8 +48,6 @@ A **multimodal health insight engine** that fuses **IMU, PPG, pressure, and Sams
 
 ---
 
-### RL-based TSP with Hardness-Adaptive Curriculum
-Undergraduate thesis on **Reinforcement Learning** with a **hardness-adaptive curriculum** for solving the **Travelling Salesman Problem**, improving stability and sample efficiency over baselines.
 
 [Read more »]({{ "/projects/rl-tsp-hac/" | relative_url }})
 
