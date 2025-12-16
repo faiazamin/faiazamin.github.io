@@ -16,10 +16,10 @@ layout: page
 
 I spend my free time exploring culinary landscapes, not just to eat, but to observe. I admire how a great chef uses intuition—not just recipes—to bring life to inert ingredients. I view fine dining as a masterclass in sensory design, and I plan to one day attend culinary school to formally decode the chemistry behind the art.*
 
-![Biriyani at hawkers center in Singapore](/assets/img/food1.HEIC)
-![Morning Tea](/assets/img/food2.HEIC)
-![Breakfast at Changi Airport](/assets/img/food3.HEIC)
-![McFlurry Machine is working!!!](/assets/img/food4.HEIC)
+![Biriyani at hawkers center in Singapore](/assets/img/food1.png)
+![Morning Tea](/assets/img/food2.png)
+![Breakfast at Changi Airport](/assets/img/food3.png)
+![McFlurry Machine is working!!!](/assets/img/food4.png)
 ![Sister's Treat](/assets/img/food5.HEIC)
 ![Breakfast in Srilanka](/assets/img/food6.HEIC)
 ![Aunts House](/assets/img/food7.HEIC)
