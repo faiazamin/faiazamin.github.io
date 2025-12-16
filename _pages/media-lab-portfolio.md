@@ -1,45 +1,46 @@
 ---
-title: "Graduate Application Portfolio"
+title: "Life Logs"
 permalink: /media-lab/
 ---
 
-This page curates a subset of my work most aligned with **Graduate Application**:  
-**novel sensing, wearable computing, personal informatics, and human-centered AI.**
-
-## 1. Acoustic Input for Headless Wearables
-
-A new **acoustic interaction channel** for ring-like and screenless wearables using low-intensity sound and **MFCC + spectrogram modeling**.
-
-- Runs on **commodity microphones**
-- Robust to **noise and everyday environments**
-- Designed for **subtle, eyes-free interaction**
-
-[Project details »]({{ "/projects/acoustic-input-headless-wearables/" | relative_url }})
-
+---
+title: "Analog Inputs"
+permalink: /analog/
+layout: page
 ---
 
-## 2. Activity-Based Health Insights on Galaxy Watch
+> "Research is the conversion of caffeine into code, but inspiration is the conversion of experience into insight. Here are the places, sounds, and flavors that fuel my work."
 
-A **multimodal health insight system** that fuses IMU, PPG, pressure, and contextual health data to recommend **activity-linked insights** to users.
+## 🍜 Palettes
+*I am an engineer by trade, but a cook by aspiration. While my own kitchen experiments often end in 'unexpected results' (a polite term for inedible), my fascination with the craft is boundless.
 
-- Supports **behavior reflection** and **daily health awareness**
-- Demonstrated at the **Samsung AI POC Exhibition**
-- Built to run in consumer-scale wearable ecosystems
+I spend my free time exploring culinary landscapes, not just to eat, but to observe. I admire how a great chef uses intuition—not just recipes—to bring life to inert ingredients. I view fine dining as a masterclass in sensory design, and I plan to one day attend culinary school to formally decode the chemistry behind the art.*
 
-[Project details »]({{ "/projects/activity-health-insights/" | relative_url }})
+![Biriyani at hawkers center in Singapore](/assets/img/food1.HEIC)
+![Morning Tea](/assets/img/food2.HEIC)
+![Breakfast at Changi Airport](/assets/img/food3.HEIC)
+![McFlurry Machine is working!!!](/assets/img/food4.HEIC)
+![Sister's Treat](/assets/img/food5.HEIC)
+![Breakfast in Srilanka](/assets/img/food6.HEIC)
+![Aunts House](/assets/img/food7.HEIC)
 
----
+## 📍 Voyages
+*My travel logic is a balance of sensory input and physical output. I build my itineraries around local food scenes, but I am equally driven by the outdoors—seeking out hiking trails, snorkeling reefs, or the occasional optimistic attempt at surfing. This combination of active discovery and culinary indulgence is how I recharge.*
 
-## 3. Experimenting with Behavior & Focus Modeling
+![Singapore](/assets/img/travel1.HEIC)
+![Srilanka](/assets/img/travel5.HEIC)
+![Singapore](/assets/img/travel8.HEIC)
+![Singapore](/assets/img/travel9.HEIC)
+![Srilanka](/assets/img/travel10.HEIC)
+![Srilanka](/assets/img/travel11.HEIC)
+![Srilanka](/assets/img/travel12.HEIC)
+![Srilanka](/assets/img/travel14.HEIC)
 
-Additional experimental work (e.g., **EEG–vision-based focus detection**, homonym disambiguation based on prosody) explores how **subtle signals** can reveal cognitive states and support new interaction paradigms.
 
-While still early-stage, these experiments shape my long-term interest in:
 
-- **Everyday cognitive augmentation**
-- **Implicit sensing for attention, workload, and mental state**
-- **Interventions that feel natural and respectful, not intrusive**
 
----
+## 🎨 Perspectives
+*Visual arts and design inspiration.*
 
-My long-term vision is to design **sensing-driven interfaces** that don’t just measure people, but **support them**—in understanding their bodies, habits, and minds, and in taking small, meaningful actions toward better health and well-being.
+![Modern Art Installation](/assets/images/art1.jpg)
+
