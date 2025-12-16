@@ -1,4 +1,4 @@
----
+r---
 layout: splash
 title: "Faiaz Amin Khan - R&D Engineer and Inventor"
 permalink: /
@@ -14,10 +14,10 @@ permalink: /
        style="max-width: 240px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);" />
 </p>
 
-**Bridging Novel Sensing & Contextual Intelligence**
+**Bridging Novel Sensing & Contextual Intelligencee**
 
 ---
-I’m a Research Software Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**
+I’m a Research Software Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**r
 
 I work at the intersection of:
 
@@ -48,9 +48,5 @@ A **multimodal health insight engine** that fuses **IMU, PPG, pressure, and Sams
 
 ---
 
-
-[Read more »]({{ "/projects/rl-tsp-hac/" | relative_url }})
-
----
 
 If you’re interested in **mobile health**, **novel sensing**, or **human-centered AI for everyday life**, I’d love to connect.
