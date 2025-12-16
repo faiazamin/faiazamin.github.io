@@ -21,13 +21,12 @@ I spend my free time exploring culinary landscapes, not just to eat, but to obse
 ## 📍 Voyages
 *My travel logic is a balance of sensory input and physical output. I build my itineraries around local food scenes, but I am equally driven by the outdoors—seeking out hiking trails, snorkeling reefs, or the occasional optimistic attempt at surfing. This combination of active discovery and culinary indulgence is how I recharge.*
 
-![Singapore](/assets/img/travel1.HEIC)
-![Srilanka](/assets/img/travel5.HEIC)
-![Singapore](/assets/img/travel8.HEIC)
-![Singapore](/assets/img/travel9.HEIC)
-![Srilanka](/assets/img/travel10.HEIC)
-![Srilanka](/assets/img/travel11.HEIC)
-![Srilanka](/assets/img/travel12.HEIC)
-![Srilanka](/assets/img/travel14.HEIC)
+![Singapore](/assets/img/travel1.png)
+![Srilanka](/assets/img/travel2.png)
+![Singapore](/assets/img/travel3.png)
+![Singapore](/assets/img/travel4.png)
+![Srilanka](/assets/img/travel5.png)
+![Srilanka](/assets/img/travel6.png)
+![Srilanka](/assets/img/travel7.png)
 
 
