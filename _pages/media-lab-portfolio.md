@@ -3,11 +3,6 @@ title: "Life Logs"
 permalink: /media-lab/
 ---
 
----
-title: "Analog Inputs"
-permalink: /analog/
-layout: page
----
 
 > "Research is the conversion of caffeine into code, but inspiration is the conversion of experience into insight. Here are the places, sounds, and flavors that fuel my work."
 
