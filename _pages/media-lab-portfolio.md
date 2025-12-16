@@ -37,10 +37,3 @@ I spend my free time exploring culinary landscapes, not just to eat, but to obse
 ![Srilanka](/assets/img/travel14.HEIC)
 
 
-
-
-## 🎨 Perspectives
-*Visual arts and design inspiration.*
-
-![Modern Art Installation](/assets/images/art1.jpg)
-
