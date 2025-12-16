@@ -17,7 +17,7 @@ permalink: /
 **Bridging Novel Sensing & Contextual Intelligence**
 
 ---
-I’m a Research Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**.
+I’m a Research Engineer & Inventor at **Samsung Research (Wearable Solutions Lab)**, where I design and build **AI-driven sensing and interaction systems** for **Galaxy Watches** and the **Galaxy Wearable App**
 
 I work at the intersection of:
 
@@ -34,7 +34,7 @@ My long-term goal is to build **intelligent, context-aware systems** that turn e
 
 ### Acoustic Input for Headless Wearables
 A low-power **acoustic input mechanism** for ring-like and headless wearables using **MFCC + spectrogram-based modeling** on commodity microphones.  
-🛈 Awarded **Samsung A2 patent grade**, selected for filing at KIPO.
+🛈 Awarded **Samsung A2 innovation grade**
 
 [Read more »]({{ "/projects/acoustic-input-headless-wearables/" | relative_url }})
 
