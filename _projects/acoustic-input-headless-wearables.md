@@ -1,50 +1,37 @@
 ---
-title: "Acoustic Input for Headless Wearables"
-permalink: /projects/acoustic-input-headless-wearables/
+title: "Acoustic Interaction for Compact Wearables"
+permalink: /projects/acoustic-interaction-wearables/
 ---
 
-## Overview
+## 🚀 Overview
 
-A novel **acoustic input mechanism** for Samsung wearable devices that uses **low-intensity sound** and **MFCC + spectrogram modeling** to detect subtle user actions.
+I led the research and prototyping of a **novel input mechanism** for next-generation wearable devices. The project focused on enabling discrete interaction on ultra-compact form factors without relying on physical buttons or traditional touch interfaces.
 
-Awarded **Samsung A2 patent grade**.
+* **Status:** Awarded **Samsung A2 Patent Grade** (Internal Innovation Award) & Selected for Patent Filing.
+* **Role:** Lead Researcher & Software Engineer.
 
-## Why ?
-As wearables shrink, screens disappear. I realized that current 'headless' devices rely on voice (not private) or active buttons (bulky). I wondered: Could we repurpose the device's internal microphone—not to hear voice, but to 'feel' activities?
-## Problem
+## ❓ Why?
+As wearables shrink, display real-estate vanishes. I realized that current **ultra-compact** devices generally rely on voice (not private) or active buttons (bulky).
 
-Wearables have:
+I observed that people naturally tap surfaces to fidget or signal. I wondered: **Could we repurpose the device's internal acoustic sensors—not to hear voice, but to 'feel' these mechanical activities?**
 
-- Limited visual interface
-- Severely constrained input surface
-- Strong power and compute limits
+## 💡 The Approach
+*Due to Samsung Research IP regulations, specific technical implementations and sensor architectures are omitted.*
 
-We wanted to enable **reliable, low-effort input** without adding new hardware.
+I hypothesized that **structure-borne signals** could serve as a proxy for user intent. Instead of adding new hardware, I developed a software-defined sensing pipeline that repurposes **existing embedded sensors** to detect micro-mechanical interactions (e.g., taps, gestures) on the device chassis.
 
-## Approach *(High-level, NDA-compliant)*
+My contribution focused on the end-to-end pipeline:
+* **Data Strategy:** Designed protocols to collect samples of intended user interactions vs. environmental noise.
+* **Edge AI:** Developed and optimized a lightweight classification model to run locally on the device, ensuring privacy and low latency.
 
-**Note**: *Specific architectural parameters and circuit designs are omitted to comply with Samsung R&D intellectual property regulations. The following is a high-level overview of the methodology.*
+## 🏆 Impact
+* **Innovation:** Validated that software-only solutions can establish a robust input channel on constrained surfaces.
+* **Recognition:** The project passed internal novelty searches and was awarded an **A2 Innovation Grade** by the Samsung.
+* **Feasibility:** Achieved high detection accuracy in controlled user studies.
 
-- *Hardware*: Used the Samsung Engineering devices' built-in **microphones** as sensors
-- *Data Collection*: Captured **low-intensity acoustic events**
-- *Preprocessing*: Extracted **MFCCs and spectrogram features** on-device
-- *Analyzer*: Trained a lightweight classifier to distinguish input patterns vs noise
+## 🧠 Retrospective: Key Learnings
+This project represented a pivotal evolution in my skillset, bridging the gap between theoretical ML and embedded reality.
 
-## My Contributions
-
-I led this project across the full research lifecycle:
-
-- **Conceptualization**: Proposed  acoustics as a private input modality for  wearables  
-- **Prototyping**: Built data collection pipelines and curated labeled acoustic interaction datasets  
-- **Algorithm Design**: Developed low-power acoustic feature processing suitable for wearable deployment  
-- **Validation**: Demonstrated reliable differentiation between target input and environmental noise  
-
-
-## Impact
-
-- A2 internal patent grade → high novelty and strategic importance
-- Pending patent application filing 
-- Demonstrated feasibility of **acoustic sensing as an input channel** for future wearable form factors
-
-## Retrospective: Key Learnings
-This project represented a pivotal evolution in my skillset, bridging the gap between theoretical ML and embedded reality. Initially limited in acoustic signal theory, I aggressively upskilled in spectrogram analysis and MFCC extraction, eventually mentoring my team on these implementations. Faced with extreme power constraints, I moved beyond standard training to master knowledge distillation and network pruning, optimizing our models for low powered watches and phones. Beyond technical execution, I developed critical IP strategy skills—learning to defend the commercial viability of 'headless input' against scrutiny from Samsung’s patent council, which ultimately secured the project's A2 Patent Grade.
+* **Technical Upskilling:** Initially limited in signal theory, I aggressively upskilled in **spectrogram analysis** and **MFCC feature extraction**, eventually mentoring my team on these implementations.
+* **Edge Optimization:** Faced with extreme power constraints, I moved beyond standard training to master **knowledge distillation** and **network pruning**, optimizing our models for low-powered wearable chipsets.
+* **Strategic Growth:** Beyond technical execution, I developed critical IP strategy skills—learning to defend the commercial viability of **novel input modalities** against scrutiny from the Patent Council, which ultimately secured the project's A2 Grade.
