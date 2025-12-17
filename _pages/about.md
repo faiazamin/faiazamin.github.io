@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-I’m Faiaz, an **R&D Engineer & Inventor at Samsung Research (Wearable Solutions Lab)**, where I design and implement **AI-driven sensing features** for Galaxy Watches and mobile devices.
+I’m Faiaz, an **R&D Engineer & Inventor at Samsung Research Bangladesh (Wearable Solutions Lab)**, where I design and implement **AI-driven sensing features** for Galaxy Watches and mobile devices.
 
 ### What I do
 
