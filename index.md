@@ -1,4 +1,4 @@
-r---
+---
 layout: splash
 title: "Faiaz Amin Khan - R&D Engineer and Inventor"
 permalink: /
