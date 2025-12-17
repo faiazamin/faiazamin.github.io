@@ -10,6 +10,7 @@ I’m Faiaz, an **R&D Engineer & Inventor at Samsung Research Bangladesh (Wearab
 - Build **multimodal sensing systems** with IMU, PPG, audio, and contextual data
 - Design **on-device ML pipelines** under tight power and memory constraints
 - Prototype **novel interaction modalities** for wearables and mobile health
+- Develop features for **Galaxy Wearable** App 
 - Collaborate with designers and researchers to bring POCs into product pathways
 
 ### Education
